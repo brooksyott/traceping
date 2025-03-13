@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TracePingConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--host 8.8.8.8"
+    }
+  }
+}
